@@ -1,1 +1,3 @@
-console.log("tess");
+import Rellax from "rellax";
+
+var rellax = new Rellax(".rellax");
