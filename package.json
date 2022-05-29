@@ -1,0 +1,17 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "learn how to use parallax in web",
+  "author": "Wijayaac <wijayaac25@gmail.com>",
+  "license": "MIT",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "watch": "parcel src/index.html --lazy",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.6.0",
+    "parcel": "^2.6.0"
+  }
+}

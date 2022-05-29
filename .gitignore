@@ -1,0 +1,10 @@
+dist/
+.eslintcache
+.parcel-cache/
+node_modules/
+
+.env
+
+build/
+
+yarn.lock
